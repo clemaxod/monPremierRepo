@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>TP : Un formulaire interactif</title>
+    <title>eractif</title>
 </head>
 
 <body>
