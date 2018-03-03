@@ -11,8 +11,8 @@
     <form id="myForm">
 
         <span class="form_col">Sexe :</span>
-        <label><input name="sex" type="radio" value="H" />Homme</label>
-        <label><input name="sex" type="radio" value="F" />Femme</label>
+        <label><input name="sex" type="radio" value="H" />H</label>
+        <label><input name="sex" type="radio" value="F" />F</label>
         <span class="tooltip">Vous devez sélectionnez votre sexe</span>
         <br /><br />
 
