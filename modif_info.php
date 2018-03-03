@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>eractif</title>
+    <title>interactif</title>
 </head>
 
 <body>
